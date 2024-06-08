@@ -1,4 +1,4 @@
-// var _mName = "vinod";
+// var _mName = "triyanshi";
 // var _1m_name = 'bhadur';
 // var 1mName = 'thapa';
 // var $myName = 'thapa';
