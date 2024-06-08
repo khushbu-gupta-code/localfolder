@@ -34,7 +34,7 @@ console.log(typeof num)
 //  console.log(converter)
 //  console.log(typeof converter)
 
-// let stringa = 33;
+// let string = 33;
 // let converter = String(33)
 // console.log(converter)
 // console.log(typeof converter)
