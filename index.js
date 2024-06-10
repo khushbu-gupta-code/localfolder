@@ -3,7 +3,7 @@
 // var 1mName = 'thapa';
 // var $myName = 'thapa';
 // const x;
-// x = 3;
+
 // console.log(x)
 
 
@@ -33,11 +33,10 @@ console.log(typeof num)
 //  let converter = Boolean(logged);
 //  console.log(converter)
 //  console.log(typeof converter)
-<<<<<<< HEAD
-=======
 
 // let string = 33;
 // let converter = String(33)
 // console.log(converter)
 // console.log(typeof converter)
->>>>>>> main
+let number = null;
+console.log(number);  // null
